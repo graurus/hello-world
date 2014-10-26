@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-Just another repository emerging from tutorial from this website:
+Hello guys!
 
-https://guides.github.com/activities/hello-world/
+I'm Gabi, and i want to become an programer :D
